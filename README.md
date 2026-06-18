@@ -1,8 +1,10 @@
 # 📊 Team Temp App – Next-Gen Employee Survey Platform
 
-> **An internal platform developed for Softhouse to revolutionize employee feedback.** > By replacing static forms with an interactive, AI-driven, and gamified ecosystem, Team Temp App increases engagement and simplifies data analysis for management.
+> **An internal platform developed during an internship at Softhouse to revolutionize employee feedback.** 
+> By replacing static forms with an interactive, AI-driven, and gamified ecosystem, Team Temp App increases engagement and simplifies data analysis for management.
 
-*Note: Due to internal company policies, this repository serves as a visual and architectural portfolio. No proprietary source code is included.*
+⚠️ **Confidentiality Notice:** 
+This project was developed during a Software Engineering internship at Softhouse. Due to strict internal company policies and confidentiality agreements, **no source code is included or shared in this repository**. This page serves exclusively as a visual, architectural, and process-oriented portfolio to demonstrate the system's design and my specific contributions.
 
 ---
 
@@ -42,7 +44,7 @@ The system is built as a highly scalable monorepo, utilizing a modern, type-safe
 
 ## 👨‍💻 My Role & Contributions
 
-As a Software Engineer on this project, I took ownership of core backend infrastructure and security, ensuring a stable foundation for the entire application. My key contributions included:
+As a Software Engineering Intern on this project, I took ownership of core backend infrastructure and security, ensuring a stable foundation for the entire application. My key contributions included:
 
 * **Authentication & Security:** Designed and implemented the passwordless Google OAuth flow using Better-Auth, securing endpoints across all three client applications.
 * **Backend API Development:** Built robust API routes and controllers, enforcing strict data validation using Zod.
@@ -73,4 +75,4 @@ The project was driven by professional software engineering standards to ensure 
 
 ---
 
-© 2026 Team Temp App – A Softhouse Project 💼
+© 2026 Team Temp App – A Softhouse Internship Project 💼
